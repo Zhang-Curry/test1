@@ -1,7 +1,24 @@
-# go-skeleton
+## test1
 
-Go project template
+![Test](https://github.com/Zhang-Curry/test1/workflows/Test/badge.svg) ![Lint](https://github.com/Zhang-Curry/test1/workflows/Lint/badge.svg)
 
-## Getting started
+---
 
-click the <kbd>Use this template</kbd> button and wait a few minutes for init project.
+
+## Test
+
+```
+make test
+```
+
+## Build
+
+```
+make build
+```
+
+---
+
+ref:
+
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
